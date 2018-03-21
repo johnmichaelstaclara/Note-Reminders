@@ -1,4 +1,4 @@
-NOTE REMINDER
+# Note REMINDER
 
 Are you tired of being forgetfulness or lazy of doing any task? So i have a APP for you to help you to avoid forgetfulness or lazy by doing task.
 This app will help you to remind anything that you forgot to do, will help you to remind whatever you will need or you will do. This app includes the following:

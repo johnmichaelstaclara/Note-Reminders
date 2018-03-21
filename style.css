@@ -1,0 +1,51 @@
+h1{
+  color:black;
+  font-family:Clarendon Blk BT;
+  }
+body{
+    background-color:#849f9c
+    }
+div{
+  font-family:arial;
+  }
+.panel {
+  
+	background:#076cf6;
+  
+	padding: 1.5em;
+  
+	width: 92.5%;
+ 
+	margin: auto;
+  
+	max-width: 22em;
+	color: black;
+
+        oppacity:10xp;
+}
+
+.panel1 {
+  
+	background:#076cf6;
+  
+	padding: 1.5em;
+  
+	width: 123%;
+ 
+	margin: auto;
+  
+	max-width: 19em;
+	color: black;
+
+        oppacity:10xp;
+}
+
+
+table{
+     background:white;
+     color:blue;
+     
+}
+th{
+   max-width:30em;
+}
